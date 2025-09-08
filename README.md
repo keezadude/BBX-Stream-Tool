@@ -1,17 +1,6 @@
+<h1 align="center">BBX Stream Tool</h1>
 
-<p align="center">
-
-  <img src="https://github.com/Readek/RoA-Stream-Tool/blob/master/preview.png" alt="Preview">
-  
-</p>
-
-<h1 align="center">RoA Stream Tool</h1>
-
-So you want to do a Rivals of Aether stream, huh? Well, today is your lucky day, because I have done tons of work so you don’t have to! With this tool, you will be able to set up a RoA tournament stream in no time.
-
-*Now with a [Discord Server](https://discord.gg/EX22CTBNrM)!*
-
-*Also available for [Melee](https://github.com/Readek/Melee-Stream-Tool) and [Rushdown Revolt](https://github.com/Readek/Rushdown-Revolt-Stream-Tool)!*
+So you want to do a Beyblade X stream, huh? Well, today is your lucky day, because I have done tons of work so you don’t have to! With this tool, you will be able to set up a BBX tournament stream in no time.
 
 ---
 
